@@ -1,2 +1,5 @@
 /GO/app
 /GO/go.mod
+NodeJS/node_modules
+NodeJS/package-lock.json
+NodeJS/package.json
